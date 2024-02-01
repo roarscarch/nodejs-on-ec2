@@ -1,0 +1,10 @@
+[11:13 AM] K, Vaisakhkrishnan (GE Vernova)
+pm2 start 'npm start'
+[11:13 AM] K, Vaisakhkrishnan (GE Vernova)
+pm2 status  (should give online as status)
+[11:13 AM] K, Vaisakhkrishnan (GE Vernova)
+pm2 save
+[11:13 AM] K, Vaisakhkrishnan (GE Vernova)
+pm2 startup
+[11:13 AM] K, Vaisakhkrishnan (GE Vernova)
+TRY REBOOTING AFTER THIS
